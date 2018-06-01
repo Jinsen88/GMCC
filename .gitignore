@@ -1,0 +1,14 @@
+bin/
+bin-debug/
+bin-release/
+[Oo]bj/ # FlashDevelop obj
+[Bb]in/ # FlashDevelop bin
+
+.settings/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
